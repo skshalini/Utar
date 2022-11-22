@@ -1,0 +1,59 @@
+
+
+.container {
+    border: 325px solid rgb(249, 250, 246);
+    width: 533px;
+    margin-left: 57px;
+    margin-top: -90px;
+    margin-bottom: -85px;
+    background-color: white;
+
+}
+
+#mySidenav a {
+    position: absolute;
+    transition: 0.3s;
+    padding: 45px;
+    width: 120px;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+
+}
+
+#mySidenav a {
+    left: 550px;
+    margin-top: 6px;
+    margin-left: -377px;
+    padding-left: 40px;
+    padding-right: 78px;
+    padding-top: 35px;
+    /* box-shadow: rgb(219, 8, 8); */
+}
+
+#mySidenav a:hover {
+    background-color: #2EE59D;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+}
+
+#Update {
+    top: 23px;
+    background-color: #04AA6D;
+}
+
+#Items {
+    top: 128px;
+    background-color: #2196F3;
+}
+
+#Wishlist {
+    top: 235px;
+    background-color: #f44336;
+}
+
+#contact {
+    top: 200px;
+    background-color: #555
+}
